@@ -66,7 +66,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE  |[EVIDENCE](https://photos.google.com/search/_tra_/photo/AF1QipNgujepiDL_nI14cQiuiJF3UiEvJ4dbAJSYS0fE)
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE  |[EVIDENCE](https://www.flickr.com/photos/188246421@N03/49845243148/in/dateposted-public/)
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
@@ -77,8 +77,8 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |    DONE    |[EVIDENCE](https://www.khanacademy.org/computing/computer-programming/programming)
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |    DONE    |[EVIDENCE](https://www.flickr.com/photos/188246421@N03/49845250423/in/dateposted-public/)
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |    DONE    |[EVIDENCE](https://www.flickr.com/photos/188246421@N03/49845240673/in/dateposted-public/)
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
