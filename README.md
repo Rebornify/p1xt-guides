@@ -83,7 +83,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |    DONE    |[EVIDENCE](https://www.flickr.com/photos/188246421@N03/49885722378/in/dateposted-public/)
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |    DONE    |[EVIDENCE](https://www.flickr.com/photos/188246421@N03/50035740448/in/dateposted-public/)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |    DONE    |[EVIDENCE](http://rebornify.github.io/)
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
